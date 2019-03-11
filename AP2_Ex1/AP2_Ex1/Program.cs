@@ -10,7 +10,8 @@ namespace AP2_Ex1
     {
         static void Main(string[] args)
         {
-            int a = 3
+            int a = 3;
+            int b = a;
             Console.WriteLine(a);
         }
     }
